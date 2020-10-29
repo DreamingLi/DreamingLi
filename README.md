@@ -10,6 +10,8 @@ I want to be an interesting person and create something that can be remembered b
 - 📫 How to reach me: [here](www.yinjia-li.com)
 - 💬 Ask me about everthing you are interesting at [click here](https://github.com/DreamingLi/DreamingLi/issues)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DreamingLi&show_icons=true&icon_color=0078e7&title_color=0078e7">
+
 #### Languages and Frameworks
 
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/javascript.png"></code>
