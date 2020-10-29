@@ -12,12 +12,23 @@ I want to be an interesting person and create something that can be remembered b
 
 #### Languages and Frameworks
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/javascript.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/python.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/html5.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/react.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/django.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/flask.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/git.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/sql.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/java.png"></code>
+
+
+#### Others
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/ansible.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/apache.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/aws.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/sql.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/mbox.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/mysq.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/redux.png"></code>
