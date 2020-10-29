@@ -34,6 +34,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/mbox.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/mysql.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/redux.png"></code>
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/axios.png"></code>
 
 
 #### Interested
