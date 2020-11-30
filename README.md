@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yinjia](http://www.yinjia-li.com)
 
-I am a graduate student from AUT. I like open source and all interesting things and want to try to do it.
+I am a graduate student from AUT.
 
 I want to be an interesting person and create something that can be remembered by others.
 
