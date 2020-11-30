@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yinjia](http://www.yinjia-li.com)
 
-I am a graduate student from AUT.
+I am a graduate student from AUT. I like Linux, React, Python (python is the best (laughing)), I like learning new things.
 
 I want to be an interesting person and create something that can be remembered by others.
 
