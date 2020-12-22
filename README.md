@@ -24,7 +24,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/git.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/sql.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/java.png"></code>
-
+<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/vue.png"></code>
 
 #### Others
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/ansible.png"></code>
@@ -38,6 +38,5 @@ I want to be an interesting person and create something that can be remembered b
 
 
 #### Interested
-<code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/vue.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/node.js.png"></code>
 <code><img height="20" src="https://github.com/DreamingLi/static-img/blob/main/angular.png"></code>
