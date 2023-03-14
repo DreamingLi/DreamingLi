@@ -1,13 +1,11 @@
 ### Hi there 👋 I'm [Yinjia](http://www.yinjia-li.com)
 
-I am a graduate student from AUT. I like Linux, React, Python (python is the best (laughing)), I like learning new things.
-
-I want to be an interesting person and create something that can be remembered by others.
+Welcome to my GitHub profile! My name is Leo, and I am a Software engineer based in Auckland. I am passionate about Golang, Microservices, design patterns, algorithms, etc and I love exploring new ideas and technologies.
 
 - 🔭 I’m currently working on ...,yeah, you could find them below directly.
-- 🌱 I’m currently learning React&Ansible&HTML5&CSS3&Django&.....
+- 🌱 I’m currently learning Golang microservices development, kubernetes, Algorithms, Cloud developmenet pattern.
 - 🤔 I’m interesting in front-end & back-end technologies
-- 📫 How to reach me: [here](https://www.yinjia-li.com)
+- 📫 How to reach me: Liyinjia0452@gmail.com
 - 💬 Ask me about everthing you are interesting at [click here](https://github.com/DreamingLi/DreamingLi/issues)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DreamingLi&show_icons=true&icon_color=0078e7&title_color=0078e7">
