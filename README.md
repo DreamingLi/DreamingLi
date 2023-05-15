@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yinjia](http://www.yinjia-li.com)
 
-Welcome to my GitHub profile! My name is Leo, and I am a Software engineer based in Auckland. I am passionate about Golang, Microservices, design patterns, algorithms, etc and I love exploring new ideas and technologies.
+Welcome to my GitHub profile! My name is Leo, and I am a Intermediate Software engineer based in Auckland. I am passionate about Golang, Microservices, design patterns, algorithms, etc and I love exploring new ideas and technologies.
 
 - 🔭 I’m currently working on ...,yeah, you could find them below directly.
 - 🌱 I’m currently learning Golang microservices development, kubernetes, Algorithms, Cloud developmenet pattern.
